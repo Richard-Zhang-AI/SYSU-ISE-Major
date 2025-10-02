@@ -21,7 +21,7 @@
     本仓库记录了我在 <strong>中山大学 · 智能工程学院</strong> 就读期间的部分课程设计、实验报告与代码。
     <br />
     <br />
-    <strong>觉得写的好的，可以点一个小星星✨以示鼓励；</strong>
+    <strong>觉得写的好的，可以点一个star✨以示鼓励；</strong>
     <br />
     <strong>觉得写的不好的，也点一个，反正我也不改了（bushi）。</strong>
     <br />
