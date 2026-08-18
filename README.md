@@ -21,9 +21,7 @@
     本仓库记录了我在 <strong>中山大学 · 智能工程学院</strong> 就读期间的部分课程设计、实验报告与代码。
     <br />
 
-    <br />
-    <a href="https://github.com/Richard-Zhang-AI?tab=repositories"><strong>⭐了解其他项目!</strong></a>
-  </p>
+  
 <br />
 
 ---
