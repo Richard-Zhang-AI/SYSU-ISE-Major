@@ -168,7 +168,7 @@
 ## 🤝 贡献与交流 (Contributing)
 
 欢迎通过 `Issue` 提出问题或建议。如果你发现了 bug，或者有更好的实现方式，也欢迎提交 `Pull Request`。
-（不过我大概率不改了（bushi））
+（不过我也不改了）
 
 1.  Fork 本仓库
 2.  创建你的分支 (`git checkout -b feature/AmazingFeature`)
